@@ -9,20 +9,9 @@
 ## Snapshots
 ![](Pictures/image.jpg)
 
-<style>  
-        .container {  
-            display: flex; /* 使用flex布局 */  
-            justify-content: center; /* 使图片在容器中水平居中 */  
-            align-items: center; /* 使图片在容器中垂直居中 */  
-            gap: 5px; /* 图片间的间距 */  
-        }  
-        img {  
-            max-width: 100%; /* 防止图片超出容器 */  
-            height: auto; /* 保持图片比例 */  
-        }  
-    </style>  
 
-<div class="container">  
-    <img src="Pictures/video-1.gif" alt="video-1">  
-    <img src="Pictures/video-2.gif" alt="video-2">  
-</div>  
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px;">  
+    <img src="Pictures/video-1.gif" alt="video-1" style="max-width: 100%; height: auto;">  
+    <img src="Pictures/video-2.gif" alt="video-2" style="max-width: 100%; height: auto;">  
+</div> 
+
