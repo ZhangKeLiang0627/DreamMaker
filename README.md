@@ -19,11 +19,11 @@
 ## Attributes
 
 - MCU: STM32F401CCU6
-- OLED: SSD1306 0.92inch 128x32
+- OLED: SSD1306 0.91inch 128x32
 - Interaction: 1 button
 
 > PCB制版文件保管不当已经丢失了，好吧，总有东西得在岁月中留下。
-> 好在元器件搭建简单，一块STM32F401的开发板和一个0.92inch的oled就可以复现该项目的所有内容啦！
+> 好在元器件搭建简单，一块STM32F401的开发板和一个0.91inch的oled就可以复现该项目的所有内容啦！
 
 ## Showcase
 <div align="center">  
